@@ -13,6 +13,7 @@
 11. git merge rama-heroes: hace merge del contenido de la rama héroes (o de la rama que se indique)con el master
 12. git branch -d rama-heroes: borra (delete) la rama una vez que hemos terminado de trabajar con ella y decidimos que no la vamos a usar más
 13. git push: subo las correcciones hechas en local a github
+14. git commit -am: me evita tener que escribir por separado los comandos 1 y 2
 
 
 
