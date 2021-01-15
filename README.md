@@ -10,7 +10,8 @@
 8- git checkout -b rama-heroes: sale del master, crear una nueva rama (branch; llamada "rama-heroes", en este caso) y se lleva toda la información guardada en el último commit a ésta
 9- git branch: muestra las ramas del git
 10- git checkout master: me lleva nuevamente al master y desaparece del directorio los archivos de la rama donde estaba trabajando
-11- 
+11- git merge rama-heroes: hace merge del contenido de la rama héroes (o de la rama que se indique)con el master
+12- 
 
 
 Con q salgo de la terminal cuando espera un comando.
