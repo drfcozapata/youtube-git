@@ -7,9 +7,10 @@
 5- git checkout -- .: permite recuperar el archivo con los últimos cambios hechos al hacer el commit e incluso recuperar el archivo si se borrara.
 6- git log: muestra un listado de los commit
 7- git commit --amend: permite corregir el mensaje escrito en el último commit
-8- git checkout -b rama-heroes: sale del master, crear una nueva rama (llamada "rama-heroes", en este caso) y se lleva toda la información guardada en el último commit a ésta
-9- git 
-10- git 
+8- git checkout -b rama-heroes: sale del master, crear una nueva rama (branch; llamada "rama-heroes", en este caso) y se lleva toda la información guardada en el último commit a ésta
+9- git branch: muestra las ramas del git
+10- git checkout master: me lleva nuevamente al master y desaparece del directorio los archivos de la rama donde estaba trabajando
+11- 
 
 
 Con q salgo de la terminal cuando espera un comando.
